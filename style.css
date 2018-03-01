@@ -1,0 +1,22 @@
+body{
+  font-family: 'Lato', sans-serif;
+  background-color: #f9f9f9;
+
+}
+
+h1,h4{
+  color: #00473b;
+}
+
+p{
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 30px;
+  color: #333333;
+}
+
+span{
+  color: #00473b;
+  font-weight: 600;
+  text-decoration: underline;
+}
